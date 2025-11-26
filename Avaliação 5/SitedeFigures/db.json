@@ -1,0 +1,60 @@
+{
+  "pratos": [
+    {
+      "id": 1,
+      "nome": "Figure Spike Spiegel",
+      "valor": 2999.90,
+      "descricao": "Uma figura detalhada do Spike Spiegel do anime Cowboy Bebop.",
+      "imagem": "https://m.media-amazon.com/images/I/71OXKdUMXLL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Figure Hatsune Miku",
+      "valor": 198.90,
+      "descricao": "Figure colecionável e articulada da Hatsune Miku, a popular vocaloid japonesa.",
+      "imagem": "https://i.pinimg.com/1200x/89/67/cf/8967cfde7bd42abf8048b78ce7dee1ba.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Figure Gandalf, o Cinzento",
+      "valor": 1209.00,
+      "descricao": "Figura detalhada de Gandalf, o Cinzento, do universo de O Senhor dos Anéis.",
+      "imagem": "https://m.media-amazon.com/images/I/71EC9gLkXDL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Figure Serial Experiments Lain",
+        "valor": 460.90,
+        "descricao": "Figura colecionável da Lain Iwakura do anime Serial Experiments Lain.",
+        "imagem": "https://i.pinimg.com/736x/42/ef/88/42ef8852b58ce8f734da5997d04a135b.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Figure Deadpool",
+        "valor": 349.90,
+        "descricao": "Figura do anti-herói Deadpool, coleção do filme 'Deadpool e Wolverine'.",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_639715-MLB89820073107_082025-O.webp"
+    },
+    {
+        "id": 6,
+        "nome": "Figure Capitão América",
+        "valor": 499.90,
+        "descricao": "Figura do Capitão América articulável, ideal para colecionadores.",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_667379-CBT80690332473_112024-O.webp"
+    },
+    {
+        "id": 7,
+        "nome": "Figure Tocha Humana",
+        "valor": 459.90,
+        "descricao": "Figure colecionável do personagem Tocha Humana do Quarteto Fantástico.",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_825144-MLB94127838628_102025-O.webp"
+    },
+    {
+        "id": 8,
+        "nome": "Figure Doctor Doom",
+        "valor": 499.90,
+        "descricao": "Fifure colecionável do vilão Doctor Doom do universo Marvel.",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_654198-MLB44631152807_012021-O.webp"
+    }
+  ]
+}
